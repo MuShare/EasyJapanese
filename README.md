@@ -1,7 +1,9 @@
 # EasyJapanese
-Issues and privacy policy.
+This is README for EasyJapanese application in English.
+If you are looking for the other languages README, please click the link below.
 
-- 简体中文[README_zh.md]
-- 繁体中文[README_zhT.md]
-- 日语[README_jp.md]
+
+- [简体中文说明](README_zh.md)
+- [繁体中文說明](README_zhT.md)
+- [日本語説明](README_jp.md)
 - TODO
