@@ -12,10 +12,10 @@ These websites have their own independent privacy policies, and we have no respo
 |毎日新聞|[https://mainichi.jp/maisho/](https://mainichi.jp/maisho/)|
 
 ## Contacting Us
-If you have questions regarding this privacy policy, you may e-mail me at [kou.ueno1986@gmail.com](mailto:kou.ueno1986@gmail.com).
+If you have questions regarding this terms, you may e-mail me at [kou.ueno1986@gmail.com](mailto:kou.ueno1986@gmail.com).
 
 ## Changes to this terms
 
-If we decide to change this privacy policy, we will post those changes on this page. Summary of changes so far:
+If we decide to change this terms, we will post those changes on this page. Summary of changes so far:
 
 - Monday July 15, 2019: First published.
